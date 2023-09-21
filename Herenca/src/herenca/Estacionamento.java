@@ -14,7 +14,11 @@ public class Estacionamento {
                 CombustivelEnum.GASOLINA, PatidaEnum.ELETRICA);
 
         System.out.println(hornet);
+
+        Scooter scooter = new Scooter("Scooter elétrico", 2023, "Preto", "ELEKTRA",
+                "Honda", 20000, true, false, 2200)
     }
+
 
 
 }
